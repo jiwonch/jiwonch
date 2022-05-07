@@ -3,14 +3,12 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on various web developer
 
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
-</div>
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
 
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
-</div>
 
 
 jiwonch/jiwonch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
