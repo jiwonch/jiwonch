@@ -10,16 +10,16 @@
 
 
 ## 👀SKILLS AND TOOL
-# HTML
-# CSS
-# jQuery
-# SCSS
-# SQL
-# JAVASCRIPT
-# VSCODE
-# WEBSTORM
-# GIT
-# INTELLIJ
-# VUE
-# FIGMA
-# ZEPLIN
+### HTML
+### CSS
+### jQuery
+### SCSS
+### SQL
+### JAVASCRIPT
+### VSCODE
+### WEBSTORM
+### GIT
+### INTELLIJ
+### VUE
+### FIGMA
+### ZEPLIN
