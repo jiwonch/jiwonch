@@ -2,10 +2,8 @@
 - 🌱 I’m currently using HTML, CSS, jQuery, SCSS, SQL and JavaScript.
 - 💞️ I’m looking to collaborate on various web developer.
 
-#
+## My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
-
-#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
 
 
