@@ -7,5 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{jiwonch}"/>
+<img
+  src="https://render.gitanimals.org/farms/jiwonch"
+  width="600"
+  height="300"
+/>
 </a>
