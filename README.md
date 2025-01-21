@@ -3,8 +3,8 @@
 - 💞️ I’m looking to collaborate on various web developer.
 
 ## <img src="https://github.com/jiwonch/jiwonch/assets/87967386/22288c90-449a-46e4-91de-25705ba82c32" width="22px" height="22px"> My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)&hide=stars,contribs&count_private=true
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)&hide=stars,contribs&count_private=true
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jiwonch"
