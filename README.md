@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on various web developer.
 
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch)&hide=stars,contribs&count_private=true&show_icons=true&&theme=ambient_gradient](https://github.com/jiwonch/github-readme-stats)  
+[![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)  
 
 ## <img src="https://github.com/jiwonch/jiwonch/assets/87967386/22288c90-449a-46e4-91de-25705ba82c32" width="22px" height="22px"> My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
