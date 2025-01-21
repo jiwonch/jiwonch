@@ -5,7 +5,7 @@
 
 [![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&hide=html,scss,css,Hack&langs_count=5&layout=compact)](https://github.com/jiwonch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&hide=html,css,Hack&langs_count=5&layout=compact)](https://github.com/jiwonch/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiwonch&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)  
 
