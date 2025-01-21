@@ -3,11 +3,12 @@
 - 💞️ I’m looking to collaborate on various web developer.
 
 
-[![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)  
+[![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)    
 
-## <img src="https://github.com/jiwonch/jiwonch/assets/87967386/22288c90-449a-46e4-91de-25705ba82c32" width="22px" height="22px"> My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&hide=html,scss,css&langs_count=5&layout=compact)](https://github.com/jiwonch/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiwonch&repo=github-readme-stats&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)  
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/jiwonch"
