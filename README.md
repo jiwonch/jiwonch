@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I’m Jiwon and front-end developer.
-- 🌱 I’m currently using HTML, CSS, jQuery, SCSS, SQL and JavaScript.
+- 🌱 I’m currently using HTML, CSS, jQuery, SCSS, SQL and JavaScript, VueJS.
 - 💞️ I’m looking to collaborate on various web developer.
 
 
