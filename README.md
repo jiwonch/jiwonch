@@ -6,7 +6,14 @@
 [![jiwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonch&hide=stars,contribs,issues&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonch&hide=html,css,Hack,c&langs_count=7&layout=compact&theme=ambient_gradient)](https://github.com/jiwonch/github-readme-stats)
 
-[!status](https://github-profile-trophy.vercel.app/?username=jiwonch&theme=aura)  
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <a href="https://github.com/jiwonch">
+    <img src="https://github-profile-trophy.vercel.app/?username=jiwonch&theme=aura&column=6&margin-w=10&margin-h=10"/>
+  </a>
+</p>
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiwonch&utm_content=farm">
 <img
